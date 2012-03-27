@@ -6,7 +6,11 @@
 - git submodule update
 
 # Implement Classes/PWAccessKeys.m
+- This includes all the access keys for the various services ShareKit offers.
+
 # Change Facebook URL schema to your facebook App Id in the Info.Plist
+- This is needed for Facebooks SSO.
+
 # Compile, Run, be happy.
 
 All code written by me:
