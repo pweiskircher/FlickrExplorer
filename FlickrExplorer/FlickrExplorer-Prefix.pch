@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'FlickrExplore' target in the 'FlickrExplore' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "ObjectiveFlickr.h"
+	#import "PWFlickrContext.h"
+	#import "PWCGRectAdditions.h"
+	#import "PWImages.h"
+#endif

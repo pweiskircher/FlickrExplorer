@@ -1,0 +1,4 @@
+.DS_Store
+FlickrExplorer.xcodeproj/xcuserdata/*
+FlickrExplorer.xcodeproj/project.xcworkspace/xcuserdata/*
+Classes/PWAccessKeys.m
